@@ -146,9 +146,10 @@ body {
   height: 28px;
   width: 28px;
   border-radius: 4px;
-  font-weight: 600;
+  /* font-weight: 500; */
   cursor: pointer;
   transition: 0.3s;
+  text-align: center;
 }
 
 .slider-controls .indicators ul li:hover {
